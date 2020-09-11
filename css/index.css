@@ -1,0 +1,90 @@
+img { 
+    max-width:100%; 
+    height:auto; 
+}
+
+.logo {
+    width: 100%;
+}
+
+.top {
+    width: 100%;
+}
+
+.mainview {
+    width: 100%;
+}
+
+.main {
+    width: 100%;
+    position: relative;
+}
+
+.Admission {
+    width: 80%;
+    position: absolute;
+    top: 73.7%;
+    left: 10.05%;
+}
+
+.SalonList {
+    width: 100%;
+    margin-top: 40px;
+}
+
+.salon1 {
+    width: 100%;
+    position: relative;
+}
+
+.Zip {
+    width: 100%;
+}
+
+.sl1 {
+    /* width: 80%; */
+    position: absolute;
+    top: 12.7%;
+    left: 63.05%;
+}
+
+.admission {
+    width: 70%;
+}
+
+.salon_image {
+    width: 100%;
+}
+
+.hp_check {
+    width: 100%;
+}
+
+.sl2{
+    position: absolute;
+    top: 19.2%;
+    left: 63.05%;
+}
+
+
+
+
+
+.links {
+    width: 100%;
+}
+
+.BESTAR_LINE {
+    width: 100%;
+}
+
+.Instagram {
+    width: 100%;
+    margin-top: 8px;
+}
+
+.last {
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
